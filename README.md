@@ -78,6 +78,19 @@ Data from PaleoMap project
 is distributed under the CC-BY 4.0 license,
 hat can be found in the LICENSE file.
 
+## Disclaimer
+
+As the models are a product of a pixelation of vectorial models,
+it is possible that some pixels will not be defined
+particularly in the boundaries of plates.
+Depending on the usage given to the models,
+this problems will be only annoying
+(for example,
+a deep ocean pixel in the middle of a continent),
+or it can be critical
+(if the feature of interest is near this absent pixels).
+So be careful when using the models.
+
 ## References
 
 Scotese, C.S.
