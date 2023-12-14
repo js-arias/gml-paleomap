@@ -32,6 +32,9 @@ The model is available in three resolutions:
 e360 (360 pixels in the equatorial ring),
 e180,
 and e120.
+For reference,
+Pixel IDs are stored as `pixel-ids-xxx.tab`,
+in which `xxx` is used to indicate the resolution.
 
 ## File descriptions
 
